@@ -1,0 +1,48 @@
+// const data = [
+// 	{ id: 1, item: 'eggs', quantity: 12, completed: false },
+// 	{ id: 2, item: 'milk', quantity: 2, completed: true },
+// 	{ id: 3, item: 'chips', quantity: 7, completed: false },
+// 	{ id: 4, item: 'carrots', quantity: 6, completed: false },
+// 	{ id: 5, item: 'chicken', quantity: 11, completed: true },
+// 	{ id: 6, item: 'juice', quantity: 13, completed: true },
+// ];
+
+//! Property Rental Ex. data
+//const properties = [
+//{ id: 129031, name: "Desert Yurt", rating: 4.9, price: 150 },
+//{ id: 129331, name: "Lone Mountain Cabin", rating: 4.8, price: 250 },
+//{ id: 129032, name: "Cactus Retreat", rating: 4.75, price: 300 },
+//{ id: 129033, name: "Redwood Treehouse Escape", rating: 4.9, price: 120 },
+//{ id: 129034, name: "Oceanview Condo", rating: 4.7, price: 140 },
+//{ id: 129035, name: "Gold Miner Campground", rating: 4.69, price: 96 },
+//]
+
+//! colors exercise
+
+// const colors = [
+// 	'#FF5733',
+// 	'#F700FF',
+// 	'#33FF57',
+// 	'#57FFA3',
+// 	'#33A3FF',
+// 	'#FF5733',
+// 	'#FFA333',
+// 	'#33FF57',
+// 	'#57FFA3',
+// 	'#33A3FF',
+// 	'#FF5733',
+// 	'#FFA333',
+// 	'#33FF57',
+// 	'#57FFA3',
+// 	'#33A3FF',
+// 	'#FF5733',
+// 	'#FFA333',
+// 	'#33FF57',
+// 	'#57FFA3',
+// 	'#33A3FF',
+// 	'#FF5733',
+// 	'#FFA333',
+// 	'#33FF57',
+// 	'#57FFA3',
+// 	'#33A3FF',
+// ];

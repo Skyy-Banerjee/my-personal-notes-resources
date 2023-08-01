@@ -1,23 +1,37 @@
-import logo from './logo.svg';
 import './App.css';
+import Button from '@mui/material/Button';
+//import Stack from '@mui/material/Stack';
+import IconButton from '@mui/material/IconButton';
+import AlarmIcon from '@mui/icons-material/Alarm';
+import RatingDemo from './RatingDemo';
+import FormDemo from './FormDemo';
+import NavBar from './NavBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>App Component</h2>
+      {/* <div> */}
+        {/* <Button variant="contained" color="error" size="small">
+          Contained
+        </Button>
+        <Button variant="contained" disabled>
+          Disabled
+        </Button>
+        <Button variant="contained" color="primary" href="#contained-buttons">
+          Link
+        </Button>
+        <Button color="secondary" variant="outlined">
+          Outlined
+        </Button>
+        <IconButton variant="outlined" color="secondary">
+          <AlarmIcon />
+        </IconButton>
+      </div>
+	  <RatingDemo/> */}
+	  <NavBar/>
+	  <FormDemo/>
+	  
     </div>
   );
 }

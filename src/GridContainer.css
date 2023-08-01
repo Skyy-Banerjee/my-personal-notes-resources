@@ -1,0 +1,8 @@
+.grid-container{
+    display: flex;
+    height: 700px;
+    width: 700px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

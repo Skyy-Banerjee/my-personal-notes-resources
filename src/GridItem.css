@@ -1,0 +1,11 @@
+.grid-item{
+    height: 19%;
+    width: 19%;
+    border-radius: 7px;
+    border: 1px solid rgb(207, 207, 217);
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    
+}
